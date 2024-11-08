@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|c:\\users\\dell g15\\desktop\\quanlycaphec-winform-master\\quanlycaphec-winform-master\\quanlycaphe\\frmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|solutionrelative:frmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|c:\\users\\dell g15\\desktop\\quanlycaphec-winform-master\\quanlycaphec-winform-master\\quanlycaphe\\frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|solutionrelative:frmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|c:\\users\\dell g15\\desktop\\quanlycaphec-winform-master\\quanlycaphec-winform-master\\quanlycaphe\\frlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|solutionrelative:frlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|c:\\users\\dell g15\\desktop\\quanlycaphec-winform-master\\quanlycaphec-winform-master\\quanlycaphe\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|solutionrelative:frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|c:\\users\\dell g15\\desktop\\quanlycaphec-winform-master\\quanlycaphec-winform-master\\quanlycaphe\\frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65B2AC5-10F4-4487-AB6E-9FFA99ED2D29}|QuanLyCaPhe.csproj|solutionrelative:frlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frMain.Designer.cs",
+              "RelativeDocumentMoniker": "frMain.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frMain.Designer.cs",
+              "RelativeToolTip": "frMain.Designer.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwIUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:01:51.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frMain.cs",
+              "RelativeDocumentMoniker": "frMain.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frMain.cs [Design]",
+              "RelativeToolTip": "frMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:01:47.106Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frLogin.Designer.cs",
+              "RelativeDocumentMoniker": "frLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frLogin.Designer.cs",
+              "RelativeToolTip": "frLogin.Designer.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAYwHgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T22:00:06.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frLogin.cs",
+              "RelativeDocumentMoniker": "frLogin.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frLogin.cs [Design]",
+              "RelativeToolTip": "frLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:59:21.631Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frLogin.cs",
+              "RelativeDocumentMoniker": "frLogin.cs",
+              "ToolTip": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\frLogin.cs",
+              "RelativeToolTip": "frLogin.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T21:57:45.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
