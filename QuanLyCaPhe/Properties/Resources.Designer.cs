@@ -10,9 +10,8 @@
 
 namespace QuanLyCaPhe.Properties {
     using System;
-    using System.Drawing;
-
-
+    
+    
     /// <summary>
     ///   A strongly-typed resource class, for looking up localized strings, etc.
     /// </summary>
@@ -24,7 +23,7 @@ namespace QuanLyCaPhe.Properties {
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
-        internal static Image _1486395306_11_packaging_80579;
+        
         private static global::System.Resources.ResourceManager resourceMan;
         
         private static global::System.Globalization.CultureInfo resourceCulture;
@@ -32,17 +31,7 @@ namespace QuanLyCaPhe.Properties {
         [global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode")]
         internal Resources() {
         }
-
-        public static Image Closeout_cierre_2591 { get; internal set; }
-        public static Image PhotoPrint_11187 { get; internal set; }
-        public static Image coffee_grinder_coffee_machine_cup_hot_drink_icon_210205 { get; internal set; }
-        public static Image level_102343 { get; internal set; }
-        public static Image user_theinformation_788 { get; internal set; }
-        public static Image payment_bill_machine_icon_194099 { get; internal set; }
-        public static Image user_accounts_15362 { get; internal set; }
-        public static Image businesspackage_additionalpackage_box_add_insert_negoci_2335 { get; internal set; }
-        public static Image coffee_cup_hot_icon_142431 { get; internal set; }
-
+        
         /// <summary>
         ///   Returns the cached ResourceManager instance used by this class.
         /// </summary>
@@ -74,6 +63,56 @@ namespace QuanLyCaPhe.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1486395306_11_packaging_80579 {
+            get {
+                object obj = ResourceManager.GetObject("1486395306-11-packaging_80579", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap businesspackage_additionalpackage_box_add_insert_negoci_2335 {
+            get {
+                object obj = ResourceManager.GetObject("businesspackage_additionalpackage_box_add_insert_negoci_2335", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Closeout_cierre_259 {
+            get {
+                object obj = ResourceManager.GetObject("Closeout_cierre_259", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap coffee_800x450_26 {
+            get {
+                object obj = ResourceManager.GetObject("coffee-800x450-26", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap help_15418 {
+            get {
+                object obj = ResourceManager.GetObject("help_15418", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap login {
             get {
                 object obj = ResourceManager.GetObject("login", resourceCulture);
@@ -87,6 +126,36 @@ namespace QuanLyCaPhe.Properties {
         internal static System.Drawing.Bitmap login_icon_176905 {
             get {
                 object obj = ResourceManager.GetObject("login_icon_176905", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pay_day_finance_calendar_business_salary_payment_icon_232650 {
+            get {
+                object obj = ResourceManager.GetObject("pay_day_finance_calendar_business_salary_payment_icon_232650", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap payment_bill_machine_icon_194099 {
+            get {
+                object obj = ResourceManager.GetObject("payment_bill_machine_icon_194099", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap user_accounts_15362 {
+            get {
+                object obj = ResourceManager.GetObject("user_accounts_15362", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

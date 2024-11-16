@@ -30,139 +30,163 @@ namespace QuanLyCaPhe
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frMain));
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.menu_ql_nhanvien = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_ql_sanpham = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_ql_nhaphang = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_ql_xuathang = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_help = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_thongke = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_tk_sp = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_tk_phieuxuat = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_tk_nhaphang = new System.Windows.Forms.ToolStripMenuItem();
-            this.menu_exit = new System.Windows.Forms.ToolStripMenuItem();
-            this.panel1.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
-            this.SuspendLayout();
+            panel1 = new System.Windows.Forms.Panel();
+            menuStrip1 = new System.Windows.Forms.MenuStrip();
+            menu_ql_nhanvien = new System.Windows.Forms.ToolStripMenuItem();
+            menu_ql_sanpham = new System.Windows.Forms.ToolStripMenuItem();
+            menu_ql_nhaphang = new System.Windows.Forms.ToolStripMenuItem();
+            menu_ql_xuathang = new System.Windows.Forms.ToolStripMenuItem();
+            menu_help = new System.Windows.Forms.ToolStripMenuItem();
+            menu_thongke = new System.Windows.Forms.ToolStripMenuItem();
+            menu_tk_sp = new System.Windows.Forms.ToolStripMenuItem();
+            menu_tk_phieuxuat = new System.Windows.Forms.ToolStripMenuItem();
+            menu_tk_nhaphang = new System.Windows.Forms.ToolStripMenuItem();
+            menu_exit = new System.Windows.Forms.ToolStripMenuItem();
+            panel1.SuspendLayout();
+            menuStrip1.SuspendLayout();
+            SuspendLayout();
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.menuStrip1);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panel1.Location = new System.Drawing.Point(0, 0);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(886, 38);
-            this.panel1.TabIndex = 0;
+            panel1.Controls.Add(menuStrip1);
+            panel1.Dock = System.Windows.Forms.DockStyle.Top;
+            panel1.Location = new System.Drawing.Point(0, 0);
+            panel1.Margin = new System.Windows.Forms.Padding(4);
+            panel1.Name = "panel1";
+            panel1.Size = new System.Drawing.Size(1471, 56);
+            panel1.TabIndex = 0;
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.menuStrip1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.menu_ql_nhanvien,
-            this.menu_ql_sanpham,
-            this.menu_ql_nhaphang,
-            this.menu_ql_xuathang,
-            this.menu_help,
-            this.menu_thongke,
-            this.menu_exit});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Padding = new System.Windows.Forms.Padding(6, 5, 0, 2);
-            this.menuStrip1.Size = new System.Drawing.Size(886, 32);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
+            menuStrip1.BackColor = System.Drawing.SystemColors.InactiveCaption;
+            menuStrip1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
+            menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] { menu_ql_nhanvien, menu_ql_sanpham, menu_ql_nhaphang, menu_ql_xuathang, menu_help, menu_thongke, menu_exit });
+            menuStrip1.Location = new System.Drawing.Point(0, 0);
+            menuStrip1.Name = "menuStrip1";
+            menuStrip1.Padding = new System.Windows.Forms.Padding(10, 8, 0, 3);
+            menuStrip1.Size = new System.Drawing.Size(1471, 37);
+            menuStrip1.TabIndex = 0;
+            menuStrip1.Text = "menuStrip1";
             // 
             // menu_ql_nhanvien
             // 
-            this.menu_ql_nhanvien.Name = "menu_ql_nhanvien";
-            this.menu_ql_nhanvien.Size = new System.Drawing.Size(153, 25);
-            this.menu_ql_nhanvien.Text = "Quản lý Nhân Viên";
-            this.menu_ql_nhanvien.Click += new System.EventHandler(this.menu_ql_nhanvien_Click);
+            menu_ql_nhanvien.BackgroundImage = Properties.Resources.user_accounts_15362;
+            menu_ql_nhanvien.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_ql_nhanvien.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_ql_nhanvien.Name = "menu_ql_nhanvien";
+            menu_ql_nhanvien.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_ql_nhanvien.Size = new System.Drawing.Size(156, 26);
+            menu_ql_nhanvien.Text = "Nhân Viên";
+            menu_ql_nhanvien.Click += menu_ql_nhanvien_Click;
             // 
             // menu_ql_sanpham
             // 
-            this.menu_ql_sanpham.Name = "menu_ql_sanpham";
-            this.menu_ql_sanpham.Size = new System.Drawing.Size(148, 25);
-            this.menu_ql_sanpham.Text = "Quản lý sản phẩm";
-            this.menu_ql_sanpham.Click += new System.EventHandler(this.menu_ql_sanpham_Click);
+            menu_ql_sanpham.BackgroundImage = Properties.Resources._1486395306_11_packaging_80579;
+            menu_ql_sanpham.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_ql_sanpham.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_ql_sanpham.Name = "menu_ql_sanpham";
+            menu_ql_sanpham.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_ql_sanpham.Size = new System.Drawing.Size(151, 26);
+            menu_ql_sanpham.Text = "Sản Phẩm";
+            menu_ql_sanpham.Click += menu_ql_sanpham_Click;
             // 
             // menu_ql_nhaphang
             // 
-            this.menu_ql_nhaphang.Name = "menu_ql_nhaphang";
-            this.menu_ql_nhaphang.Size = new System.Drawing.Size(154, 25);
-            this.menu_ql_nhaphang.Text = "Quản lý nhập hàng";
-            this.menu_ql_nhaphang.Click += new System.EventHandler(this.menu_ql_nhaphang_Click);
+            menu_ql_nhaphang.BackgroundImage = Properties.Resources.businesspackage_additionalpackage_box_add_insert_negoci_2335;
+            menu_ql_nhaphang.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_ql_nhaphang.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_ql_nhaphang.Name = "menu_ql_nhaphang";
+            menu_ql_nhaphang.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_ql_nhaphang.Size = new System.Drawing.Size(162, 26);
+            menu_ql_nhaphang.Text = "Nhập Hàng";
+            menu_ql_nhaphang.Click += menu_ql_nhaphang_Click;
             // 
             // menu_ql_xuathang
             // 
-            this.menu_ql_xuathang.Name = "menu_ql_xuathang";
-            this.menu_ql_xuathang.Size = new System.Drawing.Size(152, 25);
-            this.menu_ql_xuathang.Text = "Quản lý xuất phiếu";
-            this.menu_ql_xuathang.Click += new System.EventHandler(this.menu_ql_xuathang_Click);
+            menu_ql_xuathang.BackgroundImage = Properties.Resources.payment_bill_machine_icon_194099;
+            menu_ql_xuathang.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_ql_xuathang.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_ql_xuathang.Name = "menu_ql_xuathang";
+            menu_ql_xuathang.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_ql_xuathang.Size = new System.Drawing.Size(160, 26);
+            menu_ql_xuathang.Text = "Xuất Phiếu";
+            menu_ql_xuathang.Click += menu_ql_xuathang_Click;
             // 
             // menu_help
             // 
-            this.menu_help.Name = "menu_help";
-            this.menu_help.Size = new System.Drawing.Size(80, 25);
-            this.menu_help.Text = "Trợ giúp";
-            this.menu_help.Click += new System.EventHandler(this.menu_help_Click);
+            menu_help.BackgroundImage = Properties.Resources.help_15418;
+            menu_help.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_help.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_help.Name = "menu_help";
+            menu_help.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_help.Size = new System.Drawing.Size(143, 26);
+            menu_help.Text = "Trợ giúp";
+            menu_help.Click += menu_help_Click;
             // 
             // menu_thongke
             // 
-            this.menu_thongke.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.menu_tk_sp,
-            this.menu_tk_phieuxuat,
-            this.menu_tk_nhaphang});
-            this.menu_thongke.Name = "menu_thongke";
-            this.menu_thongke.Size = new System.Drawing.Size(86, 25);
-            this.menu_thongke.Text = "Thống kê";
+            menu_thongke.BackgroundImage = Properties.Resources.pay_day_finance_calendar_business_salary_payment_icon_232650;
+            menu_thongke.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_thongke.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] { menu_tk_sp, menu_tk_phieuxuat, menu_tk_nhaphang });
+            menu_thongke.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_thongke.ForeColor = System.Drawing.SystemColors.ControlText;
+            menu_thongke.Name = "menu_thongke";
+            menu_thongke.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_thongke.Size = new System.Drawing.Size(146, 26);
+            menu_thongke.Text = "Thống kê";
             // 
             // menu_tk_sp
             // 
-            this.menu_tk_sp.Name = "menu_tk_sp";
-            this.menu_tk_sp.Size = new System.Drawing.Size(222, 26);
-            this.menu_tk_sp.Text = "Thống kê sản phẩm";
-            this.menu_tk_sp.Click += new System.EventHandler(this.menu_tk_sp_Click);
+            menu_tk_sp.Name = "menu_tk_sp";
+            menu_tk_sp.Size = new System.Drawing.Size(251, 26);
+            menu_tk_sp.Text = "Thống kê sản phẩm";
+            menu_tk_sp.Click += menu_tk_sp_Click;
             // 
             // menu_tk_phieuxuat
             // 
-            this.menu_tk_phieuxuat.Name = "menu_tk_phieuxuat";
-            this.menu_tk_phieuxuat.Size = new System.Drawing.Size(222, 26);
-            this.menu_tk_phieuxuat.Text = "Thống kê phiếu xuất";
-            this.menu_tk_phieuxuat.Click += new System.EventHandler(this.menu_tk_phieuxuat_Click);
+            menu_tk_phieuxuat.Name = "menu_tk_phieuxuat";
+            menu_tk_phieuxuat.Size = new System.Drawing.Size(251, 26);
+            menu_tk_phieuxuat.Text = "Thống kê phiếu xuất";
+            menu_tk_phieuxuat.Click += menu_tk_phieuxuat_Click;
             // 
             // menu_tk_nhaphang
             // 
-            this.menu_tk_nhaphang.Name = "menu_tk_nhaphang";
-            this.menu_tk_nhaphang.Size = new System.Drawing.Size(222, 26);
-            this.menu_tk_nhaphang.Text = "Thống kê nhập hàng";
-            this.menu_tk_nhaphang.Click += new System.EventHandler(this.menu_tk_nhaphang_Click);
+            menu_tk_nhaphang.Name = "menu_tk_nhaphang";
+            menu_tk_nhaphang.Size = new System.Drawing.Size(251, 26);
+            menu_tk_nhaphang.Text = "Thống kê nhập hàng";
+            menu_tk_nhaphang.Click += menu_tk_nhaphang_Click;
             // 
             // menu_exit
             // 
-            this.menu_exit.Name = "menu_exit";
-            this.menu_exit.Size = new System.Drawing.Size(61, 25);
-            this.menu_exit.Text = "Thoát";
-            this.menu_exit.Click += new System.EventHandler(this.menu_exit_Click);
+            menu_exit.BackgroundImage = Properties.Resources.Closeout_cierre_259;
+            menu_exit.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            menu_exit.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            menu_exit.Name = "menu_exit";
+            menu_exit.Padding = new System.Windows.Forms.Padding(30, 0, 30, 0);
+            menu_exit.Size = new System.Drawing.Size(119, 26);
+            menu_exit.Text = "Thoát";
+            menu_exit.Click += menu_exit_Click;
             // 
             // frMain
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(886, 333);
-            this.Controls.Add(this.panel1);
-            this.Name = "frMain";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Quản lý quán cà phê";
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
-            this.ResumeLayout(false);
-
+            AutoScaleDimensions = new System.Drawing.SizeF(11F, 22F);
+            AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            BackgroundImage = Properties.Resources.coffee_800x450_26;
+            ClientSize = new System.Drawing.Size(1471, 541);
+            Controls.Add(panel1);
+            Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
+            Icon = (System.Drawing.Icon)resources.GetObject("$this.Icon");
+            Margin = new System.Windows.Forms.Padding(4);
+            Name = "frMain";
+            StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            Text = "Quản lý quán Coffee";
+            Load += frMain_Load;
+            panel1.ResumeLayout(false);
+            panel1.PerformLayout();
+            menuStrip1.ResumeLayout(false);
+            menuStrip1.PerformLayout();
+            ResumeLayout(false);
         }
 
         #endregion

@@ -70,5 +70,10 @@ namespace QuanLyCaPhe
             frLogin login = new frLogin();
             login.ShowDialog();
         }
+
+        private void frMain_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

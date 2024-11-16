@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\QuanLyCaPhe.csproj": {}
+    "C:\\Users\\Dell G15\\Documents\\GitHub\\QuanLyCoffee-Winform-CSharp\\QuanLyCaPhe\\QuanLyCaPhe.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\QuanLyCaPhe.csproj": {
+    "C:\\Users\\Dell G15\\Documents\\GitHub\\QuanLyCoffee-Winform-CSharp\\QuanLyCaPhe\\QuanLyCaPhe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\QuanLyCaPhe.csproj",
+        "projectUniqueName": "C:\\Users\\Dell G15\\Documents\\GitHub\\QuanLyCoffee-Winform-CSharp\\QuanLyCaPhe\\QuanLyCaPhe.csproj",
         "projectName": "QuanLyCaPhe",
-        "projectPath": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\QuanLyCaPhe.csproj",
+        "projectPath": "C:\\Users\\Dell G15\\Documents\\GitHub\\QuanLyCoffee-Winform-CSharp\\QuanLyCaPhe\\QuanLyCaPhe.csproj",
         "packagesPath": "C:\\Users\\Dell G15\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dell G15\\Desktop\\QuanLyCaPheC-WinForm-master\\QuanLyCaPheC-WinForm-master\\QuanLyCaPhe\\obj\\",
+        "outputPath": "C:\\Users\\Dell G15\\Documents\\GitHub\\QuanLyCoffee-Winform-CSharp\\QuanLyCaPhe\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dell G15\\AppData\\Roaming\\NuGet\\NuGet.Config",

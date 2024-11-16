@@ -118,10 +118,34 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="businesspackage_additionalpackage_box_add_insert_negoci_2335" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\businesspackage_additionalpackage_box_add_insert_negoci_2335.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1486395306-11-packaging_80579" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\1486395306-11-packaging_80579.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="payment_bill_machine_icon_194099" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\payment_bill_machine_icon_194099.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pay_day_finance_calendar_business_salary_payment_icon_232650" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\pay_day_finance_calendar_business_salary_payment_icon_232650.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Closeout_cierre_259" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\Closeout_cierre_259.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_accounts_15362" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\user_accounts_15362.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="login_icon_176905" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\login_icon_176905.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="login" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Images\login.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="help_15418" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\help_15418.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="coffee-800x450-26" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Images\coffee-800x450-26.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
